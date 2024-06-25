@@ -16,8 +16,8 @@
 
 ## 4. 결과
 결과 이미지는 output.jpg처럼 나왔고, 전체 설계도는 architecture.jpg로 만들었다. 
-![output.jpg](![image](https://github.com/kieunseo/test_0625/assets/161268857/1c3ebbe7-8574-41b7-be8d-02686f001f62)
-)
+![output.jpg](https://github.com/kieunseo/test_0625/assets/161268857/3a75ecbe-71bc-49d5-80b1-809e6e17dc30)
+
 
 ![architecture.jpg](https://github.com/kieunseo/test_0625/assets/161268857/eeb914e5-1809-4a37-94f7-c2e2c34fad2e)
 
